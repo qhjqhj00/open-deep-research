@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+data/
+config.json
+test.py
+
 
 # Distribution / packaging
 .Python
